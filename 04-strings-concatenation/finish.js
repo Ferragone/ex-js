@@ -18,3 +18,13 @@ const myJob2 = 'Front-end Developer'
 const personInfo2 = `My name is ${myName2} ${mySurname2} and I am ${myJob2}` 
 
 console.log(personInfo2)
+
+/**Тренировка */
+
+const myFirstFruit = 'Apple'
+const mySecondFruit = 'Banana'
+const myThirdFruit = 'Orange'
+
+const allFruits = `My favorite fruits ${myFirstFruit}, ${mySecondFruit} and ${myThirdFruit}`
+
+console.log(allFruits)
