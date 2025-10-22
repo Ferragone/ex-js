@@ -8,9 +8,3 @@
  * 3. Выведите значение последней переменной в консоль
  */
 
-const oneNumber = 3
-const twoNumber = 4
-
-const mult = oneNumber * twoNumber
-
-console.log(mult)

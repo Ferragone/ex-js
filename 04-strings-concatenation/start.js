@@ -11,10 +11,3 @@
  * 3. Выведите значение последней переменной в консоль
  */
 
-const myName = 'Artem'
-const mySurname = 'Tykhonenko'
-const myJob = 'Front-end Developer'
-
-const personInfo = 'My name is ' + myName + ' '  + mySurname + ' and I am '  + myJob
-
-console.log(personInfo)
