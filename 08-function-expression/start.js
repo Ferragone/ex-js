@@ -16,3 +16,5 @@ const hello = function (name) {
 }
 
 console.log(hello('Artem'))
+
+console.log(hello('Sonya'))
