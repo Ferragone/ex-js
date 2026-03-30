@@ -6,4 +6,4 @@
  */
 
 
-setTimeout (()=> console.log('Hello, World!'), 10000 )
+setTimeout (()=> console.log('Hello, World!'), 5000)
