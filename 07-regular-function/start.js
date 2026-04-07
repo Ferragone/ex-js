@@ -9,10 +9,3 @@
  * 4. Вызовите функцию
  */
 
-
-function callFn () {
-    const myName = 'Artem'
-    console.log(myName)
-}
-
-callFn()

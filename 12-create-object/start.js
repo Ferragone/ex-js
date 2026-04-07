@@ -9,12 +9,3 @@
  * "My name is <name> <surname> and my favorite number is <favoriteNumber>"
  */
 
-const person = {
-    name: 'Artem',
-    surname: 'Tykhonenko',
-    favoriteNumber: 9
-}
-
-const personInfo = `My name is ${person.name} ${person.surname} and my favorite number is ${person.favoriteNumber} `
-
-console.log(personInfo)
