@@ -8,3 +8,9 @@
  * 3. Выведите значение последней переменной в консоль
  */
 
+const oneNumber = 10;
+const twoNumber = 5;
+
+const multNumber = oneNumber * twoNumber;
+
+console.log(multNumber);
